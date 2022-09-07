@@ -27,10 +27,10 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-img[src="img/logo.svg"]{
+img[src="logo.svg"]{
   width:400px;
 }
-img[src="img/detail.jpg"]{
+img[src="detail.jpg"]{
   max-width:100%
 }
 .flexbox{
@@ -56,10 +56,10 @@ ul li{
     grid-template-columns: 1fr;
     grid-column-gap: 2rem;
   }
-  img[src="img/mainvisual.jpg"]{
+  img[src="mainvisual.jpg"]{
     max-width: 100%;
   }
-  img[src="img/logo.svg"]{
+  img[src="logo.svg"]{
     width:50vw;
   }
 }
