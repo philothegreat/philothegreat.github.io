@@ -172,4 +172,7 @@ margin-right: 0;
   .project_box{
     grid-template-columns: 1fr;
   }
+  .project_box a:hover{
+    display:none;
+}
 }
